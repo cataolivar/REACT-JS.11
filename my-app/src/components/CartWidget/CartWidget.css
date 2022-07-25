@@ -1,0 +1,16 @@
+.carrito{
+    display: grid;
+    grid-template-columns: 40px 30px;
+    background-color: #EE8CBD;
+} 
+
+.imgCarrito {
+    height: 35px;
+    width: 35px;
+    display:block;
+}
+
+.number{
+    padding: 10px;
+    background-color: #EE8CBD;
+}

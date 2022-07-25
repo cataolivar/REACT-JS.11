@@ -1,0 +1,53 @@
+.divCarrito{
+    display: grid;
+    justify-content: center;
+}
+
+.carritoh1
+{
+    margin: 15px;
+}
+
+.imgCart{
+    height: 300px;
+    width: 300px;
+}
+
+.delete
+{
+height: 30px;
+width: 80px;
+margin: 10px;
+}
+
+.carritoVacio{
+    display: grid;
+    justify-content: center;
+    margin: 50px;
+}
+
+.pikachu
+{
+    height: 300px;
+    width: 400px;
+}
+
+
+.buttonCarrito {
+height: 30px;
+width: 80px;
+}
+
+.buttonYtotal
+{
+    display: grid;
+    grid-template-rows: 40px 40px;
+    grid-template-columns: 200px;
+    margin: 10px;
+}
+
+.buttonCarrito1 {
+    height: 30px;
+    width: 80px;
+    margin: 10px;
+    }

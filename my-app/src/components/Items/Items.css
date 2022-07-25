@@ -1,0 +1,23 @@
+.divItems{
+    display: grid;
+    justify-content: center;
+}
+
+.h3Items{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.img1{
+    height: 400px;
+    width: 400px;
+}
+
+.itemsButton{
+    height: 50px;
+    width: 80px;
+    margin: 10px;
+    background-color: pink;
+    text-align: center;
+    padding-top:20px
+}
