@@ -1,0 +1,23 @@
+.h2Checkout{
+    text-align: center;
+    margin: 10px;
+}
+
+.divCheckout {
+    display: grid;
+    grid-template-rows: 40px 40px 40px 40px 40px;
+    justify-content: center;
+}
+
+.inputCheckout{
+    border: 2px solid black;
+    margin: 5px;
+    width: 400px
+}
+
+.divCheckout1{
+    display: grid;
+    grid-template-rows: 40px 40px 40px;
+    justify-content: center;
+    margin-top: 50px;
+}

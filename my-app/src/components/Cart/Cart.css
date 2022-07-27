@@ -48,25 +48,3 @@
     width: 80px;
     margin: 10px;
 }
-
-.h2Cart{
-    text-align: center;
-}
-
-.formCart {
-    display: grid;
-    grid-template-rows: 40px 40px 40px 40px 40px 40px 40px;
-    justify-content: center;
-}
-
-.inputCart {
-    border: 2px solid black;
-    width: 200px;
-}
-
-.buttonSubmit {
-    height: 30px;
-    width: 80px;
-    background-color: #ffc0cb;
-    margin: 10px;
-}
