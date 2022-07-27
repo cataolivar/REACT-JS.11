@@ -1,53 +1,72 @@
-.divCarrito{
+.divCarrito {
     display: grid;
     justify-content: center;
 }
 
-.carritoh1
-{
+.carritoh1 {
     margin: 15px;
 }
 
-.imgCart{
+.imgCart {
     height: 300px;
     width: 300px;
 }
 
-.delete
-{
-height: 30px;
-width: 80px;
-margin: 10px;
+.delete {
+    height: 30px;
+    width: 80px;
+    margin: 10px;
 }
 
-.carritoVacio{
+.carritoVacio {
     display: grid;
     justify-content: center;
     margin: 50px;
 }
 
-.pikachu
-{
+.pikachu {
     height: 300px;
     width: 400px;
 }
 
 
 .buttonCarrito {
-height: 30px;
-width: 80px;
+    height: 30px;
+    width: 80px;
 }
 
-.buttonYtotal
-{
+.buttonYtotal {
     display: grid;
     grid-template-rows: 40px 40px;
     grid-template-columns: 200px;
     margin: 10px;
+    justify-content: end;
 }
 
 .buttonCarrito1 {
     height: 30px;
     width: 80px;
     margin: 10px;
-    }
+}
+
+.h2Cart{
+    text-align: center;
+}
+
+.formCart {
+    display: grid;
+    grid-template-rows: 40px 40px 40px 40px 40px 40px 40px;
+    justify-content: center;
+}
+
+.inputCart {
+    border: 2px solid black;
+    width: 200px;
+}
+
+.buttonSubmit {
+    height: 30px;
+    width: 80px;
+    background-color: #ffc0cb;
+    margin: 10px;
+}
