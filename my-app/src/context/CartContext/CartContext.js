@@ -11,7 +11,6 @@ const CartContext = ({children}) =>
    
 
     useEffect ( () => {
-        getQtyProducts();
     }, [products])
 
      const getQtyProducts = () => {

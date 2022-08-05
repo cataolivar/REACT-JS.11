@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { getProds } from "../../mocks/fakeApi";
 import ItemDetail from "../ItemDetail/ItemDetail";
 import PacmanLoader from "react-spinners/PacmanLoader"
 import "./ItemDetailContainer.css"
